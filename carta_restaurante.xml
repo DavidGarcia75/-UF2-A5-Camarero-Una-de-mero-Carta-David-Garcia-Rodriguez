@@ -1,0 +1,233 @@
+<carta>
+
+    <plato>
+        <nombre>Spaghetti Carbonara</nombre>
+        <descripcion>Spaghetti con salsa de huevo, queso pecorino, panceta y pimienta negra.</descripcion>
+        <precio>12.50€</precio>
+        <imagen>./img/spa.jpeg</imagen>
+        <calorias>450</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Pizza Margherita</nombre>
+        <descripcion>Pizza con tomate, mozzarella fresca y albahaca.</descripcion>
+        <precio>9.99€</precio>
+        <imagen>./img/pizza.jpg</imagen>
+        <calorias>350</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+   
+    <plato>
+        <nombre>Lasaña Bolognesa</nombre>
+        <descripcion>Lasaña clásica con salsa bolognesa, bechamel y queso parmesano.</descripcion>
+        <precio>14.99€</precio>
+        <imagen>./img/lasaña.jpg</imagen>
+        <calorias>550</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Risotto de Champiñones</nombre>
+        <descripcion>Risotto cremoso con champiñones y queso parmesano.</descripcion>
+        <precio>11.50€</precio>
+        <imagen>./img/risotto.jpg</imagen>
+        <calorias>400</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Carpaccio de Buey</nombre>
+        <descripcion>Finas láminas de carne de buey con rúcula, parmesano y aceite de oliva.</descripcion>
+        <precio>15.75€</precio>
+        <imagen>./img/carp1.jpg</imagen>
+        <calorias>300</calorias>
+        <gluten>No</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Penne Arrabiata</nombre>
+        <descripcion>Pasta penne con salsa de tomate picante, ajo y aceite de oliva.</descripcion>
+        <precio>10.99€</precio>
+        <imagen>./img/penne.jpg</imagen>
+        <calorias>400</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>No</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Caprese</nombre>
+        <descripcion>Ensalada caprese con tomate, mozzarella fresca, albahaca y aceite de oliva.</descripcion>
+        <precio>8.50€</precio>
+        <imagen>./img/caprese.jpg</imagen>
+        <calorias>250</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Ossobuco con Risotto Milanese</nombre>
+        <descripcion>Tierno ossobuco servido con risotto milanese y gremolata.</descripcion>
+        <precio>18.99€</precio>
+        <imagen>./img/oso.jpg</imagen>
+        <calorias>650</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+   
+    <plato>
+        <nombre>Gnocchi al Pesto</nombre>
+        <descripcion>Gnocchi con salsa pesto genovese y queso parmesano.</descripcion>
+        <precio>10.50€</precio>
+        <imagen>./img/gn.jpg</imagen>
+        <calorias>400</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Panini Caprese</nombre>
+        <descripcion>Panini con tomate, mozzarella fresca, albahaca y aceite de oliva.</descripcion>
+        <precio>6.99€</precio>
+        <imagen>./img/panini.jpg</imagen>
+        <calorias>400</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Bruschetta</nombre>
+        <descripcion>Bruschettas de tomate fresco, ajo, albahaca y aceite de oliva.</descripcion>
+        <precio>5.50€</precio>
+        <imagen>./img/brus.jpg</imagen>
+        <calorias>200</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>No</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Prosciutto e Melone</nombre>
+        <descripcion>Entrante de melón fresco con jamón serrano.</descripcion>
+        <precio>9.25€</precio>
+        <imagen>./img/jamon.jpg</imagen>
+        <calorias>150</calorias>
+        <gluten>No</gluten>
+        <lacteos>No</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Tagliatelle al Ragu</nombre>
+        <descripcion>Tagliatelle con salsa bolognesa tradicional.</descripcion>
+        <precio>13.75€</precio>
+        <imagen>./img/taglia.jpg</imagen>
+        <calorias>500</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Insalata di Pollo</nombre>
+        <descripcion>Ensalada mixta con pollo a la plancha.</descripcion>
+        <precio>11.99€</precio>
+        <imagen>./img/ens.jpg</imagen>
+        <calorias>350</calorias>
+        <gluten>No</gluten>
+        <lacteos>No</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+     <plato>
+        <nombre>Caponata Siciliana</nombre>
+        <descripcion>Plato siciliano de berenjenas, tomates, apio, aceitunas y alcaparras.</descripcion>
+        <precio>10.75€</precio>
+        <imagen>./img/capo.jpg</imagen>
+        <calorias>300</calorias>
+        <gluten>No</gluten>
+        <lacteos>No</lacteos>
+        <pescado>No</pescado>
+    </plato>
+   
+    <plato>
+        <nombre>Filetto di Manzo</nombre>
+        <descripcion>Solomillo de ternera a la parrilla con guarnición de verduras.</descripcion>
+        <precio>19.99€</precio>
+        <imagen>./img/fil.avif</imagen>
+        <calorias>600</calorias>
+        <gluten>No</gluten>
+        <lacteos>No</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Calamares rellenos a la plancha</nombre>
+        <descripcion>Calamares rellenos de pescado de la costa italiana con perejil y tomate</descripcion>
+        <precio>18.25€</precio>
+        <imagen>./img/cal.jpg</imagen>
+        <calorias>250</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>No</lacteos>
+        <pescado>Sí</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Calamari Fritti</nombre>
+        <descripcion>Calamares fritos con salsa de limón y alioli.</descripcion>
+        <precio>13.50€</precio>
+        <imagen>./img/calam.jpg</imagen>
+        <calorias>400</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>No</lacteos>
+        <pescado>Sí</pescado>
+    </plato>
+    
+    <plato>
+        <nombre>Panna Cotta</nombre>
+        <descripcion>Postre italiano de crema cocida con salsa de frutos rojos.</descripcion>
+        <precio>6.99€</precio>
+        <imagen>./img/panna.jpg</imagen>
+        <calorias>350</calorias>
+        <gluten>No</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+    
+  <plato>
+        <nombre>Tiramisú</nombre>
+        <descripcion>Postre italiano clásico con café, bizcochos y mascarpone.</descripcion>
+        <precio>7.50€</precio>
+        <imagen>./img/tira.jpg</imagen>
+        <calorias>300</calorias>
+        <gluten>Sí</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+
+        <plato>
+        <nombre>Gelato</nombre>
+        <descripcion>Helado cremoso de frutos del bosque con crema.</descripcion>
+        <precio>8.40€</precio>
+        <imagen>./img/gel.jpg</imagen>
+        <calorias>300</calorias>
+        <gluten>No</gluten>
+        <lacteos>Sí</lacteos>
+        <pescado>No</pescado>
+    </plato>
+</carta>
